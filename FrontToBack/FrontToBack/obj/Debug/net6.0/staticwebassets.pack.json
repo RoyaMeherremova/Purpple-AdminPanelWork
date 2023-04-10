@@ -1,0 +1,645 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FrontToBack.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FrontToBack.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\css\\demo.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\css\\main.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\js\\config.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\Admin\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\css\\boxicon.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\boxicon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\css\\templatemo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\banner-bg-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\banner-bg-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\banner-bg-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-bg-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\banner-img-01.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-img-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\banner-img-02.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-img-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\feature-work-1-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature-work-1-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\feature-work-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature-work-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\feature-work-2-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature-work-2-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\feature-work-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature-work-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\feature-work-3-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature-work-3-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\feature-work-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature-work-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\feature-work-4-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature-work-4-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\feature-work-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature-work-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\our-work-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our-work-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\our-work-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our-work-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\our-work-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our-work-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\our-work-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our-work-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\our-work-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our-work-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\our-work-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our-work-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\pricing.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\pricing.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\recent-work-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\recent-work-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\recent-work-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\recent-work-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\recent-work-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\recent-work-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\recent-work-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\recent-work-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\recent-work-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\recent-work-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\recent-work-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\recent-work-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\related-post-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\related-post-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\related-post-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\related-post-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\related-post-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\related-post-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\services-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\services-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\services-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\services-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\services-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\services-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\services-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\services-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\team-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\team-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\team-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\team-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\team-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\team-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-01-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-01-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-02-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-02-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-03-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-03-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-04-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-04-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-05-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-05-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-06-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-06-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work-slide-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-slide-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\img\\work.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\work.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\js\\fslightbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fslightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\js\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\js\\templatemo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\wwwroot\\assets\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FrontToBack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FrontToBack.props",
+      "PackagePath": "build\\FrontToBack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FrontToBack.props",
+      "PackagePath": "buildMultiTargeting\\FrontToBack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FrontToBack.props",
+      "PackagePath": "buildTransitive\\FrontToBack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,31 @@
+﻿.active-status {
+    width: 20px;
+    height: 20px;
+    background-color:forestgreen;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.deActive-status {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.slider-content {
+    width: 500px;
+   
+}
+.slider-content img{
+    width:100%;
+}
+.py-1 {
+    width: 157px;
+    height: 53px;
+}
+
+.py-1 img{
+    width:100%;
+}
